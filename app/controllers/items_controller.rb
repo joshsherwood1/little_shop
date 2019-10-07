@@ -55,12 +55,12 @@ class ItemsController<ApplicationController
     end
   end
 
-  private def record_not_found
+  private
+
+  def record_not_found
     redirect_to controller: 'items', action: 'index'
     flash[:error] = "The page you have selected does not exist"
   end
-
-  private
 
   def item_params
     params.permit(:name,:description,:price,:inventory,:image)
