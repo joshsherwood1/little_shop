@@ -1,6 +1,7 @@
 # Little Shop
 Turing Back-End Development Program, Mod 2 Week 2/3 Pair Project.
-By Joshua Sherwood and Nancy Lee
+
+By: Joshua Sherwood and Nancy Lee
 
 
 ## Background and Description
