@@ -9,7 +9,7 @@ In this project, we've added additional functionalities to an existing repo (i.e
 
 
 ## Required functionalities
-The project is guided by the user stories (as shown below), given in the order of increasing complexity. The project demonstrates the following concepts taught in Mod 2:
+The project was guided by user stories. The project demonstrates the following concepts:
 
 - HTTP requests and responses facilitated by RESTful and non-RESTful routes
 - separation of logic via MVC framework
