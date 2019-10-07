@@ -1,5 +1,5 @@
 # Little Shop
-Turing Back-End Development Program, Mod 2 Week 2/3 Pair Project.
+Turing Back-End Development Program, Mod 2, Week 2/3 Pair Project.
 
 By: Joshua Sherwood and Nancy Lee
 
@@ -33,4 +33,4 @@ A few notable functionalities that we also implemented during this project inclu
 - Applying bootstrap styling, including layouts, navigation bar, cards, buttons, and star glyphicons
 
 ## Website
-   You can go to https://radiant-falls-14500.herokuapp.com/ to view the project
+   View the project at https://radiant-falls-14500.herokuapp.com/ 
