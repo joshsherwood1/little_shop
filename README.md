@@ -3,6 +3,10 @@ Turing Back-End Development Program, Mod 2, Week 2/3 Pair Project.
 
 By: Joshua Sherwood and Nancy Lee
 
+This application uses:
+- Rails 5.1.7
+- Ruby 2.4.1
+
 
 ## Background and Description
 In this project, we've added additional functionalities to an existing repo (i.e., a fictitious e-commerce platform called [little_shop](https://github.com/turingschool-examples/little_shop_1906) built with Rails) that mimic online transactions in a more realistic way.
